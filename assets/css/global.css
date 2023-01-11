@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: D2Coding, monospace;
+}
+
+.el-input__inner {
+  color: white !important;
+  font-family: D2Coding, monospace;
+}
+
+.el-input-group__append, .el-input-group__prepend {
+  background-color: black !important;
+  color: white !important;
+}
+
